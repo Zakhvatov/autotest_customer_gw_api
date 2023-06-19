@@ -1,6 +1,6 @@
 __pycache__
 .idea
 .pytest_cache
-.env.test
+.env.prod
 venv
 connection_config.ini
