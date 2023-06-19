@@ -1,0 +1,5 @@
+pytest == 7.3.1
+python-dotenv==0.20.0
+requests~=2.31.0
+jsonschema~=4.17.3
+env~=0.1.0
