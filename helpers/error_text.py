@@ -1,0 +1,7 @@
+incorrect_entrepreneur_type = "input combination of type, sign_type and power_of_attorney is forbidden: CUSTOMER_TYPE_ENTREPRENEUR, CUSTOMER_SIGN_TYPE_GOS, true"
+customer_already_have_type = "customer already have type, sign type and power of attorney"
+customer_physical_paper_true = "input combination of type, sign_type and power_of_attorney is forbidden: CUSTOMER_TYPE_PHYSICAL, CUSTOMER_SIGN_TYPE_PAPER, true"
+customer_physical_paper_false = "input combination of type, sign_type and power_of_attorney is forbidden: CUSTOMER_TYPE_PHYSICAL, CUSTOMER_SIGN_TYPE_PAPER, false"
+customer_physical_gos_true = "input combination of type, sign_type and power_of_attorney is forbidden: CUSTOMER_TYPE_PHYSICAL, CUSTOMER_SIGN_TYPE_GOS, true"
+customer_juridical_gos_true = "input combination of type, sign_type and power_of_attorney is forbidden: CUSTOMER_TYPE_JURIDICAL, CUSTOMER_SIGN_TYPE_GOS, true"
+customer_juridical_gos_false = "input combination of type, sign_type and power_of_attorney is forbidden: CUSTOMER_TYPE_JURIDICAL, CUSTOMER_SIGN_TYPE_GOS, false"

@@ -1,0 +1,6 @@
+__pycache__
+.idea
+.pytest_cache
+.env.test
+venv
+connection_config.ini

@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "external_id": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "status": {
+      "type": "integer"
+    },
+    "type": {
+      "type": "integer"
+    },
+    "billing_number": {
+      "type": "string"
+    },
+    "sign_type": {
+      "type": "integer"
+    },
+    "power_of_attorney": {
+      "type": "boolean"
+    },
+    "creation_date": {
+      "type": "string"
+    },
+    "verification_status": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "external_id",
+    "email",
+    "status",
+    "type",
+    "billing_number",
+    "sign_type",
+    "power_of_attorney",
+    "creation_date",
+    "verification_status"
+  ]
+}
